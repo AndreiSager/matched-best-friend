@@ -36,7 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Install Dependencies
 
 ```
-npm install @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphl-request next-auth
+npm install @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
 ```
 
 ```
