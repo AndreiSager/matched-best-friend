@@ -42,3 +42,7 @@ npm install @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphq
 ```
 npm install @grafbase/sdk --save-dev
 ```
+
+```
+npx grafbase init --config-format typescript
+```

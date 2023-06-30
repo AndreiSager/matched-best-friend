@@ -46,7 +46,6 @@ const Footer = () => {
                         <FooterColumn title={footerLinks[5].title} links={footerLinks[5].links}/>
                     </div>
                     <FooterColumn title={footerLinks[6].title} links={footerLinks[6].links}/>
-
                 </div>
             </div>
             <div className="flexBetween footer_copyright">
